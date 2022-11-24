@@ -1,3 +1,6 @@
+## Author
+SolidityDrone 
+
 # PolyMessageServiceV1
 ! Even tho this code functions, it shouldn't be used on production as i'll update this later !<br><br>
 PolyMessageServiceV1 is ERC721 contract created to live on Polygon Network and so portable on other EVMs. Its functioning message system that leverages ERC721 to send message either in data from RPC calls, either through visualization of the nft itself (i.e. OpenSea or similar)<br>
@@ -25,5 +28,4 @@ Gas cost increase with the length of the addresses' array*
 ## Next features planned
  
  - V2
-
 
